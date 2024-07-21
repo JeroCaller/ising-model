@@ -1,0 +1,5 @@
+에너지를 2로 나눔
+transition=500
+eqsteps = 1000
+error run = 100
+온도 구간: 50

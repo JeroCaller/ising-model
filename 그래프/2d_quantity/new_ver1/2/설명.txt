@@ -1,0 +1,4 @@
+온도구간:50
+transition = 1000
+eqstep(run) = 1000
+err = 100

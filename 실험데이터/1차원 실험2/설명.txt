@@ -1,0 +1,8 @@
+magnetic domain 시각화와 물리량 측정을 동시에 함
+온도: 0.1 ~ 4.0
+온도 간격: 0.1도씩
+transition = 100000
+
+초기 상태 스핀 확률
+spin up 90%
+spin down 10%
